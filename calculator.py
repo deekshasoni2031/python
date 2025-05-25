@@ -1,0 +1,10 @@
+a=input("enter the value of a:")
+b=input("enter the value of b:")
+result1= (int(a)+int(b)) #typecasting
+result2= (int(a)-int(b))
+result3= (int(a)*int(b))
+result4= (int(a)/int(b))
+print("addition of a & b is",result1)
+print("subtraction of a & b is",result2)
+print("multiplication of a & b is",result3)
+print("division of a & b is",result4)
